@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology:</h2>
 
 - <b>osTicket (Help Desk Ticketing)</b>
+  - [osTicket:Prequisistes and Installation](https://github.com/gdavis850/osTicket-prereqs)
   - [osTicket:Post - Installation Configuration](https://github.com/gdavis850/post-install-config) 
   - [osTicket:Ticket Lifecycle Examples](https://github.com/gdavis850/ticket-lifecycle)
     
